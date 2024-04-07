@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DU+nSfYtf6Vo8Qq+m0GmlVKEXQwfER1KkpooiKXyANpVXsOrmUczKkAVu4pxZc/gy1I52C6ej1IdkHOMV/mVA==",
+  "success": true,
+  "projectFilePath": "/Users/EZRA/Documents/SCHOOL/PROGRAMMING/GitHub/ecks-cse210/final/FinalProject/FinalProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/EZRA/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/EZRA/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/EZRA/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.17/microsoft.netcore.app.host.osx-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
