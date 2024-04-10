@@ -27,3 +27,4 @@ C:/Users/EZRA/Documents/GitHub/ecks-cse210/final/FinalProject/obj/Debug/net7.0/r
 /Users/EZRA/Documents/SCHOOL/PROGRAMMING/GitHub/ecks-cse210/final/FinalProject/obj/Debug/net7.0/FinalProject.pdb
 /Users/EZRA/Documents/SCHOOL/PROGRAMMING/GitHub/ecks-cse210/final/FinalProject/obj/Debug/net7.0/FinalProject.genruntimeconfig.cache
 /Users/EZRA/Documents/SCHOOL/PROGRAMMING/GitHub/ecks-cse210/final/FinalProject/obj/Debug/net7.0/ref/FinalProject.dll
+/Users/EZRA/Documents/SCHOOL/PROGRAMMING/GitHub/ecks-cse210/final/FinalProject/obj/Debug/net7.0/FinalProject.sourcelink.json

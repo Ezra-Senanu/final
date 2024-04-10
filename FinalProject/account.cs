@@ -1,13 +1,13 @@
 using System;
 
-class Account{
-		private string [] user_info = File.ReadAllLines("account.txt");
+class Account{ 
+		private string [] user_info = File.ReadAllLines("account.txt"); //try to make a csv file for the data and save them in rows based on account types 
 		private string [] options = new string[]{"1. Account Details","2. Deposit funds","3. Withdraw funds","4. Change password","5. Exit"};
 		private int opt_view = 0;
 		private int limit = 1200;
 
 
-		public void UserAcount(){
+		public void UserAcount(){   //pass in the constructor(put the console in program.cs) 
 			Console.WriteLine("Login");
 			Console.Write("Username:");
 			string user_name = Console.ReadLine();

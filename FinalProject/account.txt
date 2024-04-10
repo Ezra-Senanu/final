@@ -1,6 +1,6 @@
 Kofi
 Senanu
-12/1/12
-4321
-checking 
-2500
+12/3/12
+0987
+checking account
+200850
